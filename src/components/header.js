@@ -7,7 +7,7 @@ export default function Header() {
             <Navbar />
             <img src={logo} className="App-logo" alt="logo" />
             <p>
-              cNex Hub Template Home Page
+              safvan Home Page
             </p>
         </header>
     );
