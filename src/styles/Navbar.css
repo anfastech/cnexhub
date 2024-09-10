@@ -1,0 +1,22 @@
+
+nav {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-around;
+  }
+  
+  nav h1 {
+    cursor: pointer;
+  }
+  
+  nav ul {
+    display: flex;
+    width: 50%;
+    justify-content: space-around;
+    list-style: none;
+  }
+  
+  nav ul li {
+    cursor: pointer;
+  }
